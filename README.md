@@ -1,8 +1,11 @@
 # Catalog in Power Platform
 
 This is a discussion forum for reporting issues, requesting features and providing feedback for the Power Platform.
+
 Documentation for Catalog can be found here: https://learn.microsoft.com/en-us/power-platform/developer/catalog
+
 Power Platform CLI documentation can be found here: https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/catalog
+
 Power Platform actions have been published : https://github.com/microsoft/powerplatform-actions 
 
 ## Contributing

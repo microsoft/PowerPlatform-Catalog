@@ -2,9 +2,13 @@
 
 This is a discussion forum for reporting issues, requesting features and providing feedback for the Power Platform.
 
-Documentation for Catalog can be found here: https://learn.microsoft.com/en-us/power-platform/developer/catalog
+Documentation for Catalog can be found here: 
 
-Power Platform CLI documentation can be found here: https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/catalog
+- For everyone:[Catalog in Power Platform](https://learn.microsoft.com/power-apps/maker/data-platform/catalog-overview)
+- For administrators: [Administer the catalog](https://learn.microsoft.com/power-platform/admin/administer-catalog)
+- For developers:[Catalog in Power Platform for developers](https://learn.microsoft.com/power-platform/developer/catalog/overview)
+
+Power Platform CLI documentation can be found here: https://learn.microsoft.com/power-platform/developer/cli/reference/catalog
 
 Power Platform actions have been published : https://github.com/microsoft/powerplatform-actions 
 
